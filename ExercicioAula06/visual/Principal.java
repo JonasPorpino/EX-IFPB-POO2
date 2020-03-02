@@ -1,4 +1,12 @@
 package visual;
+     /**
+      * Instituto Federal de Educação, Ciência e Tecnológica da Paraíba
+      * Licenciatura em Computação
+      * Programação Orientada a Objetos II
+      * Professor: Diego Ernesto Rosa Pessoa
+      * Tutor: Danilo Rangel Arruda Leite
+      * Aluno: Jonas Nunes Porpino
+     */
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

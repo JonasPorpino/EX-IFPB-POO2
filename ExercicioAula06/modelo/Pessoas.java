@@ -1,4 +1,12 @@
 package modelo;
+     /**
+      * Instituto Federal de Educação, Ciência e Tecnológica da Paraíba
+      * Licenciatura em Computação
+      * Programação Orientada a Objetos II
+      * Professor: Diego Ernesto Rosa Pessoa
+      * Tutor: Danilo Rangel Arruda Leite
+      * Aluno: Jonas Nunes Porpino
+     */
 
 import controlar.Gerenciador;
 
