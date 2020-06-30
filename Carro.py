@@ -1,3 +1,5 @@
+#Modificado por Jonaas 30/0620
+
 renda = float(input("Digite sua renda: "))
 procentagem = float(input("Digite quanto será a porcentagem que você pode pagar: "))
 rendaPorc = (renda * procentagem)/100
