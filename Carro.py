@@ -1,4 +1,4 @@
-#Modificado por Jonaas 30/0620
+#Modificado por Jonas 12/07/20
 
 renda = float(input("Digite sua renda: "))
 procentagem = float(input("Digite quanto será a porcentagem que você pode pagar: "))
